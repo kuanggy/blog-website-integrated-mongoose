@@ -15,12 +15,16 @@ git clone https://github.com/kuanggy/blog-website-integrated-mongoose.git
 ```
 
 #### Install npm packages
-```npm install```
+```
+npm install
+```
 
 #### In "app.js", replace with your own mongoDB Client
 
 #### Test the project in localhost:3000
-```node app.js```
+```
+node app.js
+```
 
 <hr>
 
