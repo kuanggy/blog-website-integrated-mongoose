@@ -1,5 +1,4 @@
 # Blog website integrated with MongoDB using Mongoose Package: The App Brewery WebDevCourse 2023
-<hr>
 
 # Getting Started
 Make sure Git is installed in your machine.
