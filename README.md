@@ -1,5 +1,4 @@
-# blog-website-integrated-mongoose
-The Simple Blog Website Integrated with MongoDB using Mongoose Package
+# Blog-website-EJS-Challenge-The-App_Brewery-WebDevCourse
+ Blog website EJS Challenge: The App Brewery WebDevCourse 2023
 
-# Preview Image of Blog Website
 <img src="preview.png">

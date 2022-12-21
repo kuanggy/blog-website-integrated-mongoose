@@ -1,0 +1,11 @@
+<%- include("header.ejs") %>
+<form action="/delete" method="post">
+    <div class="card">
+        <div class="card-body">
+            <h1 class="card-title"><%- post.topic %></h1>
+            <p class="card-text"><%- post.detail %></p>
+        </div>
+        <button class="btn btn-danger" name="postID" type="submit" value="<%- post._id %>">Delete This Post</button>
+    </div>
+</form>
+<%- include("footer.ejs") %>
